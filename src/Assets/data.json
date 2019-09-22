@@ -1,0 +1,79 @@
+{
+    "books":[{
+        "poster": "hoc.jpg",
+        "description": "A Congressman works with his equally conniving wife to exact revenge on the people who betrayed him.",
+        "title": "House of Cards"
+    }, {
+        "poster": "dd.jpg",
+        "description": "A blind lawyer with his other senses superhumanly enhanced fights crime as a costumed superhero.",
+        "title": "Daredevil"
+    }, {
+        "poster": "oitnb.jpg",
+        "description": "The story of Piper Chapman, a woman in her thirties who is sentenced to fifteen months in prison after being convicted of a decade-old crime of transporting money for her drug-dealing girlfriend.",
+        "title": "Orange Is the New Black"
+    }, {
+        "poster": "ad.jpg",
+        "description": "Level-headed son Michael Bluth takes over family affairs after his father is imprisoned. But the rest of his spoiled, dysfunctional family are making his job unbearable.",
+        "title": "Arrested Development"
+    }, {
+        "poster": "mp.jpg",
+        "description": "In a world replete with greed, betrayal, sexual intrigue and rivalry, \"Marco Polo\" is based on the famed explorer's adventures in Kublai Khan's court in 13th century China.",
+        "title": "Marco Polo"
+    }, {
+        "poster": "bl.jpg",
+        "description": "A family of adult siblings find that their secrets and scars are revealed when their black sheep of a brother returns home.",
+        "title": "Bloodline"
+    }, {
+        "poster": "bh.jpg",
+        "description": "Meet the most beloved sitcom horse of the '90s - 20 years later. BoJack Horseman was the star of the hit TV show \"Horsin' Around,\" but today he's washed up, living in Hollywood, complaining about everything, and wearing colorful sweaters.",
+        "title": "BoJack Horseman"
+    }, {
+        "poster": "hg.jpg",
+        "description": "A teenage girl is brutally murdered, sparking a hunt for her killer. But in a town where everyone hides a secret, will they find the monster among them?",
+        "title": "Hemlock Grove"
+    }, {
+        "poster": "tk.jpg",
+        "description": "A police investigation, the saga of a grieving family, and a Seattle mayoral campaign all interlock after the body of 17-year-old Rosie Larsen is found in the trunk of a submerged car.",
+        "title": "The Killing"
+    }, {
+        "poster": "l.jpg",
+        "description": "A program that follows a couple who must navigate the exhilarations and humiliations of intimacy, commitment and other things they were hoping to avoid.",
+        "title": "Love"
+    }, {
+        "poster": "mon.jpg",
+        "description": "The personal and professional life of Dev, a 30-year-old actor in New York.",
+        "title": "Master of None"
+    }, {
+        "poster": "f.jpg",
+        "description": "Will Arnett will star as a self-help guru who needs a decent amount of help himself.",
+        "title": "Flaked"
+    }, {
+        "poster": "jj.jpg",
+        "description": "A former superhero decides to reboot her life by becoming a private investigator.",
+        "title": "Jessica Jones"
+    }, {
+        "poster": "n.jpg",
+        "description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+        "title": "Narcos"
+    }, {
+        "poster": "cdc.jpg",
+        "description": "When the patriarch of a prominent family dies, his heirs battle to determine who will gain control of his beloved soccer team: The Cuervos of Nuevo Toledo.",
+        "title": "Club de Cuervos"
+    }, {
+        "poster": "mam.jpg",
+        "description": "Filmed over a 10-year period, Making a Murderer is an unprecedented real-life thriller about Steven Avery, a DNA exoneree who, while in the midst of exposing corruption in local law enforcement, finds himself the prime suspect in a grisly new crime.",
+        "title": "Making a Murderer"
+    }, {
+        "poster": "s8.jpg",
+        "description": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.",
+        "title": "Sense8"
+    }, {
+        "poster": "fh.jpg",
+        "description": "D.J. Tanner-Fuller is a widow and mother of three. Things become too much to handle, so she asks for help from her sister Stephanie and her best friend Kimmy.",
+        "title": "Fuller House"
+    }, {
+        "poster": "wbd.jpg",
+        "description": "Bob and David emerge from the time machine they entered sixteen years ago and are reunited with the cast of Mr. Show.",
+        "title": "w/ Bob & David"
+    }]
+}
